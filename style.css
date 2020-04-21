@@ -1,0 +1,91 @@
+h1{
+    font-size: 50px;
+    
+}
+.name-highlight{
+   color:rgb(196, 13, 156); 
+}
+.half-width{
+    width:40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width:100%;
+}
+.link-button{
+    text-decoration: none;
+    color:white;
+    background-color: rgb(196, 13, 156);
+    padding:10px 20px;
+    border-radius: 5px;
+    font-weight: 700;
+
+}
+section{
+    height: 500px;
+    padding-bottom: 200px;
+}
+.header-bg{
+   background-image: url("images/header-bg.png");
+   
+   height: 500px;
+}
+
+.half-width1{
+    width:40%;
+    float: right;
+    margin-right: 5%;
+    padding-right: 2%;
+}
+.half-width1 img{
+    width:100%;
+}
+
+    .biography-bg{
+        background-image: url("images/biography-bg.png");
+        height: 500px;
+    }
+    h2{
+        font-size: 50px;
+        text-align:center;
+        
+    }
+    .latest-work{
+        background-image: url("images/latest-work-bg.png");
+    }
+.half-width2 img{
+    width: 30%;
+    padding: 15px;
+}
+
+
+.footer-bg{
+    background-image: url("images/footer-bg.png");
+    
+}
+h3{
+    font-size: 50px;
+    text-align: center;
+    padding:15px;
+}
+h4{
+    text-align: center;
+    padding: 5px;
+}
+h5{font-size: 15px;
+    text-align: center;
+    padding:15px ;
+}
+.leave{
+    color: white;
+    background-color: rgb(196, 13, 156);
+    padding: 5px 15px;
+    width: 50%;
+    float: center;
+    margin-bottom: 50%;
+}
+h6{
+    text-align: center;
+}
